@@ -1,5 +1,11 @@
 # DQ-Flow: Automated Data Quality & Governance Engine
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![SQLite](https://img.shields.io/badge/SQLite-Audit%20DB-green)
+![Data%20Governance](https://img.shields.io/badge/Domain-Data%20Governance-purple)
+![Status](https://img.shields.io/badge/Status-Production--Ready-success)
+
 DQ-Flow is a lightweight, production-style data quality framework that validates transactional data, detects anomalies, and generates an audit trail for compliance and reporting.
 
 ## Why this exists
