@@ -6,8 +6,7 @@
 ![Data%20Governance](https://img.shields.io/badge/Domain-Data%20Governance-purple)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
-DQ-Flow is a lightweight, production-style data quality framework that validates transactional data, $
-
+DQ-Flow is a lightweight, production-style data quality framework that validates transactional data.
 
 ![DQ-Flow Architecture](DQ-Flow-architecture.png)
 
@@ -18,7 +17,7 @@ Run the full data quality pipeline end-to-end:
 
 ```bash
 python3 dq_flow/runner.py
-
+```
 
 ## Why this exists
 In regulated environments (finance, trading, credit risk, etc.), "bad data" cannot be allowed to flow into reporting, dashboards, or regulatory submissions. DQ-Flow acts as a gate: it scans incoming data, flags issues, and produces a traceable, auditable record of data quality.
