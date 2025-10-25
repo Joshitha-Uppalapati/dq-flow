@@ -6,6 +6,8 @@
 ![Data%20Governance](https://img.shields.io/badge/Domain-Data%20Governance-purple)
 ![Status](https://img.shields.io/badge/Status-Production--Ready-success)
 
+![DQ-Flow Architecture](DQ-Flow-architecture.png)
+
 DQ-Flow is a lightweight, production-style data quality framework that validates transactional data, detects anomalies, and generates an audit trail for compliance and reporting.
 
 ## Why this exists
